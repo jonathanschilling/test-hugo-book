@@ -2,9 +2,14 @@
 weight: 1
 bookFlatSection: true
 title: "Example Site"
+mathjax: true
 ---
 
 # Introduction
+
+test some math:
+
+<code>$$E = m c^2$$</code>
 
 ## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 

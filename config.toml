@@ -4,9 +4,15 @@ title = 'My New Hugo Site'
 
 theme = "book"
 
+custom_css = ["css/custom.css"]
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
+
+# (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
+# You can remove related files with config below
+disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -31,3 +37,4 @@ enableGitInfo = true
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
   BookSearch = true
+
