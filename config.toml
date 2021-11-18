@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
@@ -21,8 +21,13 @@ enableGitInfo = true
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection = "docs"
+  BookSection = "content"
   
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
   BookRepo = "https://github.com/alex-shpak/hugo-book"
+  
+  # (Optional, default true) Enables search function with flexsearch,
+  # Index is built on fly, therefore it might slowdown your website.
+  # Configuration for indexing can be adjusted in i18n folder per language.
+  BookSearch = true
