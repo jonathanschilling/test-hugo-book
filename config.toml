@@ -25,7 +25,7 @@ enableGitInfo = true
   
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = "https://github.com/alex-shpak/hugo-book"
+  BookRepo = "https://github.com/jonathanschilling/test-hugo-book"
   
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
