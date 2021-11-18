@@ -7,9 +7,9 @@ mathjax: true
 
 # Introduction
 
-test some math:
+test some <tex>$inline$</tex> math:
 
-<code>$$E = m c^2$$</code>
+<tex>$$E = m c^2$$</tex>
 
 ## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 
