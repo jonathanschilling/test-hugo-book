@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://jonathanschilling.github.io/test-hugo-book/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
