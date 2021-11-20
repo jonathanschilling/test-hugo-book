@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/content/example/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/</loc>
+    <lastmod>2021-11-19T00:12:43+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/content/example/table-of-contents/with-toc/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/table-of-contents/with-toc/</loc>
+    <lastmod>2021-11-18T23:27:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/content/example/table-of-contents/without-toc/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/table-of-contents/without-toc/</loc>
+    <lastmod>2021-11-18T23:27:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/content/example/table-of-contents/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/table-of-contents/</loc>
+    <lastmod>2021-11-18T23:27:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/content/example/collapsed/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/collapsed/</loc>
+    <lastmod>2021-11-18T23:27:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/content/example/collapsed/dritter-level/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/collapsed/dritter-level/</loc>
+    <lastmod>2021-11-18T23:27:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/content/example/hidden/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/hidden/</loc>
+    <lastmod>2021-11-18T23:27:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/content/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/</loc>
+    <lastmod>2021-11-19T00:12:43+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/content/example/collapsed/dritter-level/4th-level/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/collapsed/dritter-level/4th-level/</loc>
+    <lastmod>2021-11-18T23:27:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost/</loc>
-    <lastmod>2021-11-20T16:31:57+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/</loc>
+    <lastmod>2021-11-19T00:12:43+01:00</lastmod>
   </url>
 </urlset>
