@@ -20,7 +20,7 @@ jobs:
         fetch-depth: 0
     - name: update content
       run: |
-        cd ${{ github.workspace }}/content/content/example
+        cd ${{ github.workspace }}/content
         git log -n 1
         git checkout master
         git log -n 1
