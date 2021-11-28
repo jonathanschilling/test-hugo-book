@@ -2,15 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/electronics/</loc>
-  </url><url>
-    <loc>https://jonathanschilling.github.io/test-hugo-book/content/example/</loc>
-    <lastmod>2021-11-28T15:20:16+01:00</lastmod>
-  </url><url>
-    <loc>https://jonathanschilling.github.io/test-hugo-book/content/</loc>
-    <lastmod>2021-11-28T15:20:16+01:00</lastmod>
+    <loc>https://jonathanschilling.github.io/test-hugo-book/electronics/</loc>
   </url><url>
     <loc>https://jonathanschilling.github.io/test-hugo-book/</loc>
-    <lastmod>2021-11-28T15:20:16+01:00</lastmod>
   </url>
 </urlset>

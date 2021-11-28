@@ -1,6 +1,6 @@
 {
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
+  "name": "Lab@Home",
+  "short_name": "Lab@Home",
   "start_url": "/test-hugo-book/",
   "scope": "/test-hugo-book/",
   "display": "standalone",

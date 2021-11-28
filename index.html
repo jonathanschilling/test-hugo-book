@@ -4,24 +4,50 @@
 	<meta name="generator" content="Hugo 0.89.4" />
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
+<meta name="description" content="Lab@Home #  This is the website of Jonathan Schilling.
+Introduction #  This is my first test. This is a second test.
+test some $inline$math:
+$$E = m c^2$$">
 <meta name="theme-color" content="#FFFFFF">
-<meta name="color-scheme" content="light dark"><meta property="og:title" content="My New Hugo Site" />
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Welcome" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://jonathanschilling.github.io/test-hugo-book/" />
 
-<title>My New Hugo Site | My New Hugo Site</title>
+<title>Welcome | Lab@Home</title>
 <link rel="manifest" href="/test-hugo-book/manifest.json">
 <link rel="icon" href="/test-hugo-book/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/test-hugo-book/book.min.46181bc93375ba932026e753b37c40e6ff8bb16a9ef770c78bcc663e4577b1ba.css" integrity="sha256-RhgbyTN1upMgJudTs3xA5v&#43;LsWqe93DHi8xmPkV3sbo=" crossorigin="anonymous">
   <script defer src="/test-hugo-book/flexsearch.min.js"></script>
-  <script defer src="/test-hugo-book/en.search.min.20c45121ab15f532ff089e9c33062ab390170e4e4a04ce356d2fad113fcdcece.js" integrity="sha256-IMRRIasV9TL/CJ6cMwYqs5AXDk5KBM41bS&#43;tET/Nzs4=" crossorigin="anonymous"></script>
-<link rel="alternate" type="application/rss+xml" href="https://jonathanschilling.github.io/test-hugo-book/index.xml" title="My New Hugo Site" />
+  <script defer src="/test-hugo-book/en.search.min.df5065e937e0e75e93f70baf55226c6af4d9fabfeffd13fe51c43686fc6ab64b.js" integrity="sha256-31Bl6Tfg516T9wuvVSJsavTZ&#43;r/v/RP&#43;UcQ2hvxqtks=" crossorigin="anonymous"></script>
+<link rel="alternate" type="application/rss+xml" href="https://jonathanschilling.github.io/test-hugo-book/index.xml" title="Lab@Home" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
--->
+--><script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+
 
   
 </head>
@@ -34,7 +60,7 @@ https://github.com/alex-shpak/hugo-book
         
   <nav>
 <h2 class="book-brand">
-  <a class="flex align-center" href="/test-hugo-book/"><span>My New Hugo Site</span>
+  <a class="flex align-center" href="/test-hugo-book/"><span>Lab@Home</span>
   </a>
 </h2>
 
@@ -64,35 +90,17 @@ https://github.com/alex-shpak/hugo-book
   <ul>
     
       
-        <li class="book-section-flat" >
-          
-  
-  
-
-  
-    <a href="https://jonathanschilling.github.io/test-hugo-book/content/example/" class="">Welcome</a>
-  
-
-          
-  <ul>
-    
-      
         <li>
           
   
   
 
   
-    <a href="https://jonathanschilling.github.io/test-hugo-book/content/example/electronics/" class="">Electrical Engineering</a>
+    <a href="https://jonathanschilling.github.io/test-hugo-book/electronics/" class="">Electrical Engineering</a>
   
 
           
   <ul>
-    
-  </ul>
-
-        </li>
-      
     
   </ul>
 
@@ -135,7 +143,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/test-hugo-book/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>My New Hugo Site</strong>
+  <strong>Welcome</strong>
 
   <label for="toc-control">
     
@@ -149,7 +157,11 @@ https://github.com/alex-shpak/hugo-book
   <aside class="hidden clearfix">
     
   
-
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#introduction">Introduction</a></li>
+  </ul>
+</nav>
 
 
 
@@ -160,7 +172,20 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"></article>
+  <article class="markdown"><h1 id="labhome">
+  Lab@Home
+  <a class="anchor" href="#labhome">#</a>
+</h1>
+<p>This is the website of Jonathan Schilling.</p>
+<h2 id="introduction">
+  Introduction
+  <a class="anchor" href="#introduction">#</a>
+</h2>
+<p>This is my first test.
+This is a second test.</p>
+<p>test some <!-- raw HTML omitted -->$inline$<!-- raw HTML omitted --> math:</p>
+<p><!-- raw HTML omitted -->$$E = m c^2$$<!-- raw HTML omitted --></p>
+</article>
  
       
 
@@ -185,6 +210,10 @@ https://github.com/alex-shpak/hugo-book
 
       
   
+  <div class="book-comments">
+
+</div>
+  
  
 
       <label for="menu-control" class="hidden book-menu-overlay"></label>
@@ -195,7 +224,11 @@ https://github.com/alex-shpak/hugo-book
       <div class="book-toc-content">
         
   
-
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#introduction">Introduction</a></li>
+  </ul>
+</nav>
 
 
  
