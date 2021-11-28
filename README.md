@@ -11,3 +11,5 @@ private content: https://reverse.put.as/2021/03/11/hugo-githubactions/
 https://github.community/t/triggering-by-other-repository/16163/9
 
 https://github.com/actions/github-script#using-a-separate-github-token
+
+https://octokit.github.io/rest.js/v18#actions-create-workflow-dispatch
