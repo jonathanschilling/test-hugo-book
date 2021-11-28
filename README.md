@@ -7,4 +7,4 @@ Here is how I got MathJax to work: https://geoffruddock.com/math-typesetting-in-
 Here is how this website is automatically being built using GitHub Actions: https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 private content: https://reverse.put.as/2021/03/11/hugo-githubactions/
-
+https://github.community/t/triggering-by-other-repository/16163/9
