@@ -18,6 +18,12 @@ jobs:
       with:
         submodules: recursive
         fetch-depth: 0
+    - name: update content
+      run: |
+        cd ${{ github.workspace }}/content/content/example
+        git status
+        git checkout master
+        git status
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
